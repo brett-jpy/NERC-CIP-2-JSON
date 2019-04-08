@@ -17,5 +17,5 @@ Standard Name
 
 --------Requirements (The actual requirement of each standard)
 
---------A screenshot of the standard section (Provided in folder 'static')
+--------A screenshot of the standard section (Provided in folder 'standards')
 

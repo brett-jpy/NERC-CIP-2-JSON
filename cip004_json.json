@@ -1,0 +1,181 @@
+{
+  "CIP-004-6": {
+    "pdf_link": "https://www.nerc.com/pa/Stand/Reliability%20Standards/CIP-004-6.pdf",
+    "part1.1": [
+      {
+        "id": "4-1.1",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems",
+          "Medium Impact BES Cyber Systems"],
+        "requirements": "Security awareness that, at least once each calendar quarter, reinforces cyber security practices (which may include associated physical security practices)for the Responsible Entitys personnel who have authorized electronic or authorized unescorted physical access to BES Cyber Systems.",
+        "page_view": "/static/standards/4.1.1.png"
+      }
+    ],
+    "part2.1": [
+      {
+        "id": "4-2.1",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "Training content on: 2.1.1. Cyber security policies; 2.1.2. Physical access controls; 2.1.3. Electronic access controls; 2.1.4. The visitor control program; 2.1.5. Handling of BES Cyber System Information and its storage; 2.1.6. Identification of a Cyber Security Incident and initial notifications in accordance with the entity’s incident response plan; 2.1.7. Recovery plans for BES Cyber Systems; 2.1.8. Response to Cyber Security Incidents; and 2.1.9. Cyber security risks associated with a BES Cyber System’s electronic interconnectivity and interoperability with other Cyber Assets, including Transient Cyber Assets, and with Removable Media.",
+        "page_view": "/static/standards/4.2.1.png"
+      }
+    ],
+    "part2.2": [
+      {
+        "id": "4-2.2",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "Require completion of the training specified in Part 2.1 prior to granting authorized electronic access and authorized unescorted physical access to applicable Cyber Assets, except during CIP Exceptional Circumstances",
+        "page_view": "/static/standards/4.2.2.png"
+      }
+    ],
+    "part2.3": [
+      {
+        "id": "4-2.3",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "Require completion of the training specified in Part 2.1 at least once every 15 calendar months",
+        "page_view": "/static/standards/4.2.3.png"
+      }
+    ],
+    "part3.1": [
+      {
+        "id": "4-3.1",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "Process to confirm identity.",
+        "page_view": "/static/standards/4.3.1.png"
+      }
+    ],
+    "part3.2": [
+      {
+        "id": "4-3.2",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "Process to perform a seven year criminal history records check as part of each personnel risk assessment that includes: 3.2.1. current residence, regardless of duration; and 3.2.2. other locations where, during the seven years immediately prior to the date of the criminal history records check, the subject has resided for six consecutive months or more. If it is not possible to perform a full seven year criminal history records check, conduct as much of the seven year criminal history records check as possible and document the reason the full seven year criminal history records check could not be performed.",
+        "page_view": "/static/standards/4.3.2.png"
+      }
+    ],
+    "part3.3": [
+      {
+        "id": "4-3.3",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "Criteria or process to evaluate criminal history records checks for authorizing access",
+        "page_view": "/static/standards/4.3.3.png"
+      }
+    ],
+    "part3.4": [
+      {
+        "id": "4-3.4",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "Criteria or process for verifying that personnel risk assessments performed for contractors or service vendors are conducted according to Parts 3.1 through 3.3",
+        "page_view": "/static/standards/4.3.4.png"
+      }
+    ],
+    "part3.5": [
+      {
+        "id": "4-3.5",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "Process to ensure that individuals with authorized electronic or authorized unescorted physical access have had a personnel risk assessment completed according to Parts 3.1 to 3.4 within the last seven years.",
+        "page_view": "/static/standards/4.3.5.png"
+      }
+    ],
+    "part4.1": [
+      {
+        "id": "4-4.1",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "Process to authorize based on need, as determined by the Responsible Entity, except for CIP Exceptional Circumstances: 4.1.1. Electronic access; 4.1.2. Unescorted physical access into a Physical Security Perimeter; and 4.1.3. Access to designated storage locations, whether physical or electronic, for BES Cyber System Information.",
+        "page_view": "/static/standards/4.4.1.png"
+      }
+    ],
+    "part4.2": [
+      {
+        "id": "4-4.2",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "Verify at least once each calendar quarter that individuals with active electronic access or unescorted physical access have authorization records.",
+        "page_view": "/static/standards/4.4.2.png"
+      }
+    ],
+    "part4.3": [
+      {
+        "id": "4-4.3",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "For electronic access, verify at least once every 15 calendar months that all user accounts, user account groups, or user role categories, and their specific, associated privileges are correct and are those that the Responsible Entity determines are necessary.",
+        "page_view": "/static/standards/4.4.3.png"
+      }
+    ],
+    "part4.4": [
+      {
+        "id": "4-4.4",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "Verify at least once every 15 calendar months that access to the designated storage locations for BES Cyber System Information, whether physical or electronic, are correct and are those that the Responsible Entity determines are necessary for performing assigned work functions.",
+        "page_view": "/static/standards/4.4.4.png"
+      }
+    ],
+    "part5.1": [
+      {
+        "id": "4-5.1",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "A process to initiate removal of an individual’s ability for unescorted physical access and Interactive Remote Access upon a termination action, and complete the removals within 24 hours of the termination action (Removal of the ability for access may be different than deletion, disabling, revocation, or removal of all access rights).",
+        "page_view": "/static/standards/4.5.1.png"
+      }
+    ],
+    "part5.2": [
+      {
+        "id": "4-5.2",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "For reassignments or transfers, revoke the individual’s authorized electronic access to individual accounts and authorized unescorted physical access that the Responsible Entity determines are not necessary by the end of the next calendar day following the date that the Responsible Entity determines that the individual no longer requires retention of that access.",
+        "page_view": "/static/standards/4.5.2.png"
+      }
+    ],
+    "part5.3": [
+      {
+        "id": "4-5.3",
+        "applicable_systems": [
+          "High Impact BES Cyber Systems and their associated: 1. EACMS; and 2. PACS",
+          "Medium Impact BES Cyber Systems with External Routable Connectivity and their associated: 1. EACMS; and 2. PACS"],
+        "requirements": "For termination actions, revoke the individual’s access to the designated storage locations for BES Cyber System Information, whether physical or electronic (unless already revoked according to Requirement R5.1), by the end of the next calendar day following the effective date of the termination action.",
+        "page_view": "/static/standards/4.5.3.png"
+      }
+    ],
+    "part5.4": [
+      {
+        "id": "4-5.4",
+        "applicable_systems": ["High Impact BES Cyber Systems and their associated: * EACMS"],
+        "requirements": "For termination actions, revoke the individual’s non-shared user accounts (unless already revoked according to Parts 5.1 or 5.3) within 30 calendar days of the effective date of the termination action.",
+        "page_view": "/static/standards/4.5.4.png"
+      }
+    ],
+    "part5.5": [
+      {
+        "id": "4-5.5",
+        "applicable_systems": ["High Impact BES Cyber Systems and their associated: * EACMS"],
+        "requirements": "For termination actions, change passwords for shared account(s) known to the user within 30 calendar days of the termination action. For reassignments or transfers, change passwords for shared account(s) known to the user within 30 calendar days following the date that the Responsible Entity determines that the individual no longer requires retention of that access. If the Responsible Entity determines and documents that extenuating operating circumstances require a longer time period, change the password(s) within 10 calendar days following the end of the operating circumstances.",
+        "page_view": "/static/standards/4.5.5.png"
+      }
+    ]
+  }
+}

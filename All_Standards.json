@@ -262,5 +262,1157 @@
         "Requirement": "R4",
         "Language": "The Responsible Entity shall implement a documented process to delegate authority, unless no delegations are used. Where allowed by the CIP Standards, the CIP Senior Manager may delegate authority for specific actions to a delegate or delegates. These delegations shall be documented, including the name or title of the delegate, the specific actions delegated, and the date of the delegation; approved by the CIP Senior Manager; and updated within 30 days of any change to the delegation. Delegation changes do not need to be reinstated with a change to the delegator.",
         "Applicability": "All BCS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R1",
+        "Language": "Each Responsible Entity shall implement one or more documented processes that collectively include each of the applicable requirement parts in CIP-004-6 Table R1 – Security Awareness Program. [Violation Risk Factor: Lower] [Time Horizon: Operations Planning]",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R1.1",
+        "Language": "Security awareness that, at least once each calendar quarter, reinforces cyber security practices (which may include associated physical security practices) for the Responsible Entity’s personnel who have authorized electronic or authorized unescorted physical access to BES Cyber Systems.",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2",
+        "Language": "Each Responsible Entity shall implement one or more cyber security training program(s) appropriate to individual roles, functions, or responsibilities that collectively includes each of the applicable requirement parts in CIP-004-6 Table R2 – Cyber Security Training Program. [Violation Risk Factor: Lower] [Time Horizon: Operations Planning]",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.1",
+        "Language": "Training content on:",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.1.1",
+        "Language": "Cyber security policies;",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.1.2",
+        "Language": "Physical access controls;",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.1.3",
+        "Language": "Electronic access controls;",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.1.4",
+        "Language": "The visitor control program;",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.1.5",
+        "Language": "Handling of BES Cyber System Information and its storage;",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.1.6",
+        "Language": "Identification of a Cyber Security Incident and initial notifications in accordance with the entity’s incident response plan;",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.1.7",
+        "Language": "Recovery plans for BES Cyber Systems;",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.1.8",
+        "Language": "Response to Cyber Security Incidents; and",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.1.9",
+        "Language": "Cyber security risks associated with a BES Cyber System’s electronic interconnectivity and interoperability with other Cyber Assets.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.2",
+        "Language": "Require completion of the training specified in Part 2.1 prior to granting authorized electronic access and authorized unescorted physical access to applicable Cyber Assets, except during CIP Exceptional Circumstances.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R2.3",
+        "Language": "Require completion of the training specified in Part 2.1 at least once every 15 calendar months.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R3",
+        "Language": "Each Responsible Entity shall implement one or more documented personnel risk assessment program(s) to attain and retain authorized electronic or authorized unescorted physical access to BES Cyber Systems that collectively include each of the applicable requirement parts in CIP-004-6 Table R3 – Personnel Risk Assessment Program. [Violation Risk Factor: Medium] [Time Horizon: Operations Planning].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R3.1",
+        "Language": "Process to confirm identity",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R3.2",
+        "Language": "Process to perform a seven year criminal history records check as part of each personnel risk assessment that includes: 3.2.1 and 3.2.2 If it is not possible to perform a full seven year criminal history records check, conduct as much of the seven year criminal history records check as possible and document the reason the full seven year criminal history records check could not be performed.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R3.2.1",
+        "Language": "current residence, regardless of duration; and",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R3.2.2",
+        "Language": "other locations where, during the seven years immediately prior to the date of the criminal history records check, the subject has resided for six consecutive months or more.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R3.3",
+        "Language": "Criteria or process to evaluate criminal history records checks for authorizing access.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R3.4",
+        "Language": "Criteria or process for verifying that personnel risk assessments performed for contractors or service vendors are conducted according to Parts 3.1 through 3.3.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R3.5",
+        "Language": "Process to ensure that individuals with authorized electronic or authorized unescorted physical access have had a personnel risk assessment completed according to Parts 3.1 to 3.4 within the last seven years.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R4",
+        "Language": "Each Responsible Entity shall implement one or more documented access management program(s) that collectively include each of the applicable requirement parts in CIP-004-6 Table R4 – Access Management Program. [Violation Risk Factor: Medium] [Time Horizon: Operations Planning and Same Day Operations].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R4.1",
+        "Language": "Process to authorize based on need, as determined by the Responsible Entity, except for CIP Exceptional Circumstances:",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R4.1.1",
+        "Language": "Electronic access;",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R4.1.2",
+        "Language": "Unescorted physical access into a Physical Security Perimeter; and",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R4.1.3",
+        "Language": "Access to designated storage locations, whether physical or electronic, for BES Cyber System Information.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R4.2",
+        "Language": "Verify at least once each calendar quarter that individuals with active electronic access or unescorted physical access have authorization records.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R4.3",
+        "Language": "For electronic access, verify at least once every 15 calendar months that all user accounts, user account groups, or user role categories, and their specific, associated privileges are correct and are those that the Responsible Entity determines are necessary.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R4.4",
+        "Language": "Verify at least once every 15 calendar months that access to the designated storage locations for BES Cyber System Information, whether physical or electronic, are correct and are those that the Responsible Entity determines are necessary for performing assigned work functions.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R5",
+        "Language": "Each Responsible Entity shall implement one or more documented access revocation program(s) that collectively include each of the applicable requirement parts in CIP-004-6 Table R5 – Access Revocation. [Violation Risk Factor: Medium] [Time Horizon: Same Day Operations and Operations Planning].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R5.1",
+        "Language": "A process to initiate removal of an individual’s ability for unescorted physical access and Interactive Remote Access upon a termination action, and complete the removals within 24 hours of the termination action (Removal of the ability for access may be different than deletion, disabling, revocation, or removal of all access rights).",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R5.2",
+        "Language": "For reassignments or transfers, revoke the individual’s authorized electronic access to individual accounts and authorized unescorted physical access that the Responsible Entity determines are not necessary by the end of the next calendar day following the date that the Responsible Entity determines that the individual no longer requires retention of that access.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R5.3",
+        "Language": "For termination actions, revoke the individual’s access to the designated storage locations for BES Cyber System Information, whether physical or electronic (unless already revoked according to Requirement R5.1), by the end of the next calendar day following the effective date of the termination action.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS w/Ext Routable and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R5.4",
+        "Language": "For termination actions, revoke the individual’s non-shared user accounts (unless already revoked according to Parts 5.1 or 5.3) within 30 calendar days of the effective date of the termination action.",
+        "Applicability": "High BCS and associated EACMS"
+    },
+    {
+        "Standard": "CIP-004-6",
+        "Requirement": "R5.5",
+        "Language": "For termination actions, change passwords for shared account(s) known to the user within 30 calendar days of the termination action. For reassignments or transfers, change passwords for shared account(s) known to the user within 30 calendar days following the date that the Responsible Entity determines that the individual no longer requires retention of that access. If the Responsible Entity determines and documents that extenuating operating circumstances require a longer time period, change the password(s) within 10 calendar days following the end of the operating circumstances.",
+        "Applicability": "High BCS and associated EACMS"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R1",
+        "Language": "Each Responsible Entity shall implement one or more documented processes that collectively include each of the applicable requirement parts in CIP-005-6 Table R1 – Electronic Security Perimeter. [Violation Risk Factor: Medium] [Time Horizon: Operations Planning and Same Day Operations].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R1.1",
+        "Language": "All applicable Cyber Assets connected to a network via a routable protocol shall reside within a defined ESP.",
+        "Applicability": "High BCS and associated PCA; Medium BCS and associated PCA"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R1.2",
+        "Language": "All External Routable Connectivity must be through an identified Electronic Access Point (EAP).",
+        "Applicability": "High BCS w/Ext Routable and associated PCA; Medium BCS w/Ext Routable and associated PCA"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R1.3",
+        "Language": "Require inbound and outbound access permissions, including the reason for granting access, and deny all other access by default.",
+        "Applicability": "EAPs for High BCS; EAPs for Medium BCS"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R1.4",
+        "Language": "Where technically feasible, perform authentication when establishing Dial-up Connectivity with applicable Cyber Assets.",
+        "Applicability": "High BCS w/Dial-up and associated PCA; Medium BCS w/Dial-up and associated PCA"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R1.5",
+        "Language": "Have one or more methods for detecting known or suspected malicious communications for both inbound and outbound communications.",
+        "Applicability": "EAPs for High BCS; EAPs for Medium BCS @ Control Centers"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R2",
+        "Language": "Each Responsible Entity shall implement one or more documented processes that collectively include the applicable requirement parts, where technically feasible, in CIP-005-6 Table R2 –Remote Access Management. [Violation Risk Factor: Medium] [Time Horizon: Operations Planning and Same Day Operations].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R2.1",
+        "Language": "For all Interactive Remoe Access, utilize an Intermediate System such that the Cyber Asset initiating Interactive Remote Access does not directly access an applicable Cyber Asset.",
+        "Applicability": "High BCS and associated PCA; Medium BCS w/Ext Routable and associated PCA"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R2.2",
+        "Language": "For all Interactive Remote Access sessions, utilize encryption that terminates at an Intermediate System.",
+        "Applicability": "High BCS and associated PCA; Medium BCS w/Ext Routable and associated PCA"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R2.3",
+        "Language": "Require multi-factor authentication for all Interactive Remote Access sessions.",
+        "Applicability": "High BCS and associated PCA; Medium BCS w/Ext Routable and associated PCA"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R2.4",
+        "Language": "Have one or more methods for determining active vendor remote access sessions (including Interactive Remote Access and system-to-system remote access).",
+        "Applicability": "High BCS and associated PCA; Medium BCS w/Ext Routable and associated PCA"
+    },
+    {
+        "Standard": "CIP-005-6",
+        "Requirement": "R2.5",
+        "Language": "Have one or more method(s) to disable active vendor remote access (including Interactive Remote Access and system-to-system remote access).",
+        "Applicability": "High BCS and associated PCA; Medium BCS w/Ext Routable and associated PCA"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R1",
+        "Language": "Each Responsible Entity shall implement one or more documented physical security plan(s) that collectively include all of the applicable requirement parts in CIP-006-6 Table R1 – Physical Security Plan. [Violation Risk Factor: Medium] [Time Horizon: Long Term Planning and Same Day Operations].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R1.1",
+        "Language": "Define operational or procedural controls to restrict physical access.",
+        "Applicability": "Medium BCS w/o  Ext Routable; PACS for High BCS; PACS for Medium BCS w/Ext Routable"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R1.2",
+        "Language": "Utilize at least one physical access control to allow unescorted physical access into each applicable Physical Security Perimeter to only those individuals who have authorized unescorted physical access.",
+        "Applicability": "Medium BCS w/Ext Routable and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R1.3",
+        "Language": "Where technically feasible, utilize two or more different physical access controls (this does not require two completely independent physical access control systems) to collectively allow unescorted physical access into Physical Security Perimeters to only those individuals who have authorized unescorted physical access.",
+        "Applicability": "High BCS and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R1.4",
+        "Language": "Monitor for unauthorized access through a physical access point into a Physical Security Perimeter.",
+        "Applicability": "High BCS and associated EACMS, PCA; Medium BCS w/Ext Routable and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R1.5",
+        "Language": "Issue an alarm or alert in response to detected unauthorized access through a physical access point into a Physical Security Perimeter to the personnel identified in the BES Cyber Security Incident response plan within 15 minutes of detection.",
+        "Applicability": "High BCS and associated EACMS, PCA; Medium BCS w/Ext Routable and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R1.6",
+        "Language": "Monitor each Physical Access Control System for unauthorized physical access to a Physical Access Control System.",
+        "Applicability": "PACS for High BCS; PACS for Medium BCS w/Ext Routable"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R1.7",
+        "Language": "Issue an alarm or alert in response to detected unauthorized physical access to a Physical Access Control System to the personnel identified in the BES Cyber Security Incident response plan within 15 minutes of the detection.",
+        "Applicability": "PACS for High BCS; PACS for Medium BCS w/Ext Routable"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R1.8",
+        "Language": "Log (through automated means or by personnel who control entry) entry of each individual with authorized unescorted physical access into each Physical Security Perimeter, with information to identify the individual and date and time of entry.",
+        "Applicability": "High BCS and associated EACMS, PCA; Medium BCS w/Ext Routable and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R1.9",
+        "Language": "Retain physical access logs of entry of individuals with authorized unescorted physical access into each Physical Security Perimeter for at least ninety calendar days.",
+        "Applicability": "High BCS and associated EACMS, PCA; Medium BCS w/Ext Routable and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R1.10",
+        "Language": "Restrict physical access to cabling and other nonprogrammable communication components used for connection between applicable Cyber Assets within the same Electronic Security Perimeter in those instances when such cabling and components are located outside of a Physical Security Perimeter. Where physical access restrictions to such cabling and components are not implemented, the Responsible Entity shall document and implement one or more of the following encryption of data that transits such cabling and components; or monitoring the status of the communication link composed of such cabling and components and issuing an alarm or alert in response to detected communication failures to the personnel identified in the BES Cyber Security Incident response plan within 15 minutes of detection; or an equally effective logical protection.",
+        "Applicability": "High Impact BES Cyber Systems and their associated PCA + Medium Impact BES Cyber Systems at Control Centers and their associated PCA"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R2",
+        "Language": "Each Responsible Entity shall implement one or more documented visitor control program(s) that include each of the applicable requirement parts in CIP-006-6 Table R2 – Visitor Control Program. [Violation Risk Factor: Medium] [Time Horizon: Same Day Operations.]",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R2.1",
+        "Language": "Require continuous escorted access of visitors (individuals who are provided access but are not authorized for unescorted physical access) within each Physical Security Perimeter, except during CIP Exceptional Circumstances.",
+        "Applicability": "High BCS and associated EACMS, PCA; Medium BCS w/Ext Routable and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R2.2",
+        "Language": "Require manual or automated logging of visitor entry into and exit from the Physical Security Perimeter that includes date and time of the initial entry and last exit, the visitor’s name, and the name of an individual point of contact responsible for the visitor, except during CIP Exceptional Circumstances.",
+        "Applicability": "High BCS and associated EACMS, PCA; Medium BCS w/Ext Routable and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R2.3",
+        "Language": "Retain visitor logs for at least ninety calendar days.",
+        "Applicability": "High BCS and associated EACMS, PCA; Medium BCS w/Ext Routable and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R3",
+        "Language": "Each Responsible Entity shall implement one or more documented Physical Access Control System maintenance and testing program(s) that collectively include each of the applicable requirement parts in CIP-006-6 Table R3 – Maintenance and Testing Program. [Violation Risk Factor: Medium] [Time Horizon: Long Term Planning].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-006-6",
+        "Requirement": "R3.1",
+        "Language": "Maintenance and testing of each Physical Access Control System and locally mounted hardware or devices at the Physical Security Perimeter at least once every 24 calendar months to ensure they function properly.",
+        "Applicability": "PACS for High BCS; PACS for Medium BCS w/Ext Routable; Locally mounted PSP hardware or devices associated w/High BCS; Locally mounted PSP hardware or devices associated w/Medium BCS w/Ext Routable"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R1",
+        "Language": "Each Responsible Entity shall implement one or more documented process(es) that collectively include each of the applicable requirement parts in CIP-007-6 Table R1 – Ports and Services. [Violation Risk Factor: Medium] [Time Horizon: Same Day Operations.]",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R1.1",
+        "Language": "Where technically feasible, enable only logical network accessible ports that have been determined to be needed by the Responsible Entity, including port ranges or services where needed to handle dynamic ports. If a device has no provision for disabling or restricting logical ports on the device then those ports that are open are deemed needed.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS w/Ext Routable and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R1.2",
+        "Language": "Protect against the use of unnecessary physical input/output ports used for network connectivity, console commands, or removable media.",
+        "Applicability": "High BCS only; Medium BCS only @ Control Centers"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R2",
+        "Language": "Each Responsible Entity shall implement one or more documented process(es) that collectively include each of the applicable requirement parts in CIP-007-6 Table R2 – Security Patch Management. [Violation Risk Factor: Medium] [Time Horizon: Operations Planning].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R2.1",
+        "Language": "A patch management process for tracking, evaluating, and installing cyber security patches for applicable Cyber Assets. The tracking portion shall include the identification of a source or sources that the Responsible Entity tracks for the release of cyber security patches for applicable Cyber Assets that are updateable and for which a patching source exists.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R2.2",
+        "Language": "At least once every 35 calendar days, evaluate security patches for applicability that have been released since the last evaluation from the source or sources identified in Part 2.1.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R2.3",
+        "Language": "For applicable patches identified in Part 2.2, within 35 calendar days of the evaluation completion, take one of the following actions: Apply the applicable patches; or Create a dated mitigation plan; or Revise an existing mitigation plan. Mitigation plans shall include the Responsible Entity’s planned actions to mitigate the vulnerabilities addressed by each security patch and a timeframe to complete these mitigations.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R2.4",
+        "Language": "For each mitigation plan created or revised in Part 2.3, implement the plan within the timeframe specified in the plan, unless a revision to the plan or an extension to the timeframe specified in Part 2.3 is approved by the CIP Senior Manager or delegate.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R3",
+        "Language": "Each Responsible Entity shall implement one or more documented process(es) that collectively include each of the applicable requirement parts in CIP-007-6 Table R3 – Malicious Code Prevention. [Violation Risk Factor: Medium] [Time Horizon: Same Day Operations].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R3.1",
+        "Language": "Deploy method(s) to deter, detect, or prevent malicious code.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R3.2",
+        "Language": "Mitigate the threat of detected malicious code.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R3.3",
+        "Language": "For those methods identified in Part 3.1 that use signatures or patterns, have a process for the update of the signatures or patterns. The process must address testing and installing the signatures or patterns.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R4",
+        "Language": "Each Responsible Entity shall implement one or more documented process(es) that collectively include each of the applicable requirement parts in CIP-007-6 Table R4 – Security Event Monitoring. [Violation Risk Factor: Medium] [Time Horizon: Same Day Operations and Operations Assessment.]",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R4.1",
+        "Language": "Log events at the BES Cyber System level (per BES Cyber System capability) or at the Cyber Asset level (per Cyber Asset capability) for identification of, and after-the-fact investigations of, Cyber Security Incidents that includes, as a minimum, each of the following types of events:",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R4.1.1",
+        "Language": "Detected successful login attempts;",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R4.1.2",
+        "Language": "Detected failed access attempts and failed login attempts;",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R4.1.3",
+        "Language": "Detected malicious code.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R4.2",
+        "Language": "Generate alerts for security events that the Responsible Entity determines necessitates an alert, that includes, as a minimum, each of the following types of events (per Cyber Asset or BES Cyber System capability):",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS w/Ext Routable and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R4.2.1",
+        "Language": "Detected malicious code from Part 4.1; and",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS w/Ext Routable and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R4.2.2",
+        "Language": "Detected failure of Part 4.1 event logging.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS w/Ext Routable and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R4.3",
+        "Language": "Where technically feasible, retain applicable event logs identified in Part 4.1 for at least the last 90 consecutive calendar days except under CIP Exceptional Circumstances.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS @ Control Centers and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R4.4",
+        "Language": "Review a summarization or sampling of logged events as determined by the Responsible Entity at intervals no greater than 15 calendar days to identify undetected Cyber Security Incidents.",
+        "Applicability": "High BCS and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R5",
+        "Language": "Each Responsible Entity shall implement one or more documented process(es) that collectively include each of the applicable requirement parts in CIP-007-6 Table R5 – System Access Controls. [Violation Risk Factor: Medium] [Time Horizon: Operations Planning].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R5.1",
+        "Language": "Have a method(s) to enforce authentication of interactive user access, where technically feasible.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS @ Control Centers and associated EACMS, PACS, PCA; Medium BCS w/Ext Routable and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R5.2",
+        "Language": "Identify and inventory all known enabled default or other generic account types, either by system, by groups of systems, by location, or by system type(s).",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R5.3",
+        "Language": "Identify individuals who have authorized access to shared accounts.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS w/Ext Routable and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R5.4",
+        "Language": "Change known default passwords, per Cyber Asset capability",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R5.5",
+        "Language": "For password-only authentication for interactive user access, either technically or procedurally enforce the following password parameters:",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R5.5.1",
+        "Language": "Password length that is, at least, the lesser of eight characters or the maximum length supported by the Cyber Asset; and",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R5.5.2",
+        "Language": "Minimum password complexity that is the lesser of three or more different types of characters (e.g., uppercase alphabetic, lowercase alphabetic, numeric, nonalphanumeric) or the maximum complexity supported by the Cyber Asset.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R5.6",
+        "Language": "Where technically feasible, for password-only authentication for interactive user access, either technically or procedurally enforce password changes or an obligation to change the password at least once every 15 calendar months.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS w/Ext Routable and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-007-6",
+        "Requirement": "R5.7",
+        "Language": "Where technically feasible, either: Limit the number of unsuccessful authentication attempts; or Generate alerts after a threshold of unsuccessful authentication attempts.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS @ Control Centers and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R1",
+        "Language": "Each Responsible Entity shall document one or more Cyber Security Incident response plan(s) that collectively include each of the applicable requirement parts in CIP-008-5 Table R1 – Cyber Security Incident Response Plan Specifications. [Violation Risk Factor: Lower] [Time Horizon: Long Term Planning].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R1.1",
+        "Language": "One or more processes to identify, classify, and respond to Cyber Security Incidents.",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R1.2",
+        "Language": "One or more processes to determine if an identified Cyber Security Incident is a Reportable Cyber Security Incident and notify the Electricity Sector Information Sharing and Analysis Center (ES-ISAC), unless prohibited by law. Initial notification to the ES-ISAC, which may be only a preliminary notice, shall not exceed one hour from the determination of a Reportable Cyber Security Incident.",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R1.3",
+        "Language": "The roles and responsibilities of Cyber Security Incident response groups or individuals.",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R1.4",
+        "Language": "Incident handling procedures for Cyber Security Incidents.",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R2",
+        "Language": "Each Responsible Entity shall implement each of its documented Cyber Security Incident response plans to collectively include each of the applicable requirement parts in CIP-008-5 Table R2 – Cyber Security Incident Response Plan Implementation and Testing. [Violation Risk Factor: Lower] [Time Horizon: Operations Planning and Real-Time Operations].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R2.1",
+        "Language": "Test each Cyber Security Incident response plan(s) at least once every 15 calendar months: By responding to an actual Reportable Cyber Security Incident; With a paper drill or tabletop exercise of a Reportable Cyber Security Incident; or With an operational exercise of a Reportable Cyber Security Incident.",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R2.2",
+        "Language": "Use the Cyber Security Incident response plan(s) under Requirement R1 when responding to a Reportable Cyber Security Incident or performing an exercise of a Reportable Cyber Security Incident. Document deviations from the plan(s) taken during the response to the incident or exercise.",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R2.3",
+        "Language": "Retain records related to Reportable Cyber Security Incidents.",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R3",
+        "Language": "Each Responsible Entity shall maintain each of its Cyber Security Incident response plans according to each of the applicable requirement parts in CIP-008-5 Table R3 – Cyber Security Incident Response Plan Review, Update, and Communication. [Violation Risk Factor: Lower] [Time Horizon: Operations Assessment].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R3.1",
+        "Language": "No later than 90 calendar days after completion of a Cyber Security Incident response plan(s) test or actual Reportable Cyber Security Incident response:",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R3.1.1",
+        "Language": "Document any lessons learned or document the absence of any lessons learned;",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R3.1.2",
+        "Language": "Update the Cyber Security Incident response plan based on any documented lessons learned associated with the plan; and",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R3.1.3",
+        "Language": "Notify each person or group with a defined role in the Cyber Security Incident response plan of the updates to the Cyber Security Incident response plan based on any documented lessons learned.",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R3.2",
+        "Language": "No later than 60 calendar days after a change to the roles or responsibilities, Cyber Security Incident response groups or individuals, or technology that the Responsible Entity determines would impact the ability to execute the plan:",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R3.2.1",
+        "Language": "Update the Cyber Security Incident response plan(s); and",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-008-5",
+        "Requirement": "R3.2.2",
+        "Language": "Notify each person or group with a defined role in the Cyber Security Incident response plan of the updates.",
+        "Applicability": "High BCS only; Medium BCS only"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R1",
+        "Language": "Each Responsible Entity shall have one or more documented recovery plan(s) that collectively include each of the applicable requirement parts in CIP-009-6 Table R1 – Recovery Plan Specifications. [Violation Risk Factor: Medium] [Time Horizon: Long Term Planning].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R1.1",
+        "Language": "Conditions for activation of the recovery plan(s).",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R1.2",
+        "Language": "Roles and responsibilities of responders.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R1.3",
+        "Language": "One or more processes for the backup and storage of information required to recover BES Cyber System functionality.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R1.4",
+        "Language": "One or more processes to verify the successful completion of the backup processes in Part 1.3 and to address any backup failures.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS @ Control Centers and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R1.5",
+        "Language": "One or more processes to preserve data, per Cyber Asset capability, for determining the cause of a Cyber Security Incident that triggers activation of the recovery plan(s). Data preservation should not impede or restrict recovery.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R2",
+        "Language": "Each Responsible Entity shall implement its documented recovery plan(s) to collectively include each of the applicable requirement parts in CIP-009-6 Table R2 – Recovery Plan Implementation and Testing. [Violation Risk Factor: Lower] [Time Horizon: Operations Planning and Real-time Operations.]",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R2.1",
+        "Language": "Test each of the recovery plans referenced in Requirement R1 at least once every 15 calendar months: By recovering from an actual incident; With a paper drill or tabletop exercise; or With an operational exercise.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS @ Control Centers and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R2.2",
+        "Language": "Test a representative sample of information used to recover BES Cyber System functionality at least once every 15 calendar months to ensure that the information is useable and is compatible with current configurations. An actual recovery that incorporates the information used to recover BES Cyber System functionality substitutes for this test.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS @ Control Centers and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R2.3",
+        "Language": "Test each of the recovery plans referenced in Requirement R1 at least once every 36 calendar months through an operational exercise of the recovery plans in an environment representative of the production environment. An actual recovery response may substitute for an operational exercise.",
+        "Applicability": "High BCS only"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R3",
+        "Language": "Each Responsible Entity shall maintain each of its recovery plan(s) in accordance with each of the applicable requirement parts in CIP-009-6 Table R3 – Recovery Plan Review, Update and Communication. [Violation Risk Factor: Lower] [Time Horizon: Operations Assessment].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R3.1",
+        "Language": "No later than 90 calendar days after completion of a recovery plan test or actual recovery:",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS @ Control Centers and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R3.1.1",
+        "Language": "Document any lessons learned associated with a recovery plan test or actual recovery or document the absence of any lessons learned;",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS @ Control Centers and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R3.1.2",
+        "Language": "Update the recovery plan based on any documented lessons learned associated with the plan; and",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS @ Control Centers and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R3.1.3",
+        "Language": "Notify each person or group with a defined role in the recovery plan of the updates to the recovery plan based on any documented lessons learned.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS @ Control Centers and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R3.2",
+        "Language": "No later than 60 calendar days after a change to the roles or responsibilities, responders, or technology that the Responsible Entity determines would impact the ability to execute the recovery plan:",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS @ Control Centers and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R3.2.1",
+        "Language": "Update the recovery plan; and",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS @ Control Centers and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-009-6",
+        "Requirement": "R3.2.2",
+        "Language": "Notify each person or group with a defined role in the recovery plan of the updates",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS @ Control Centers and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1",
+        "Language": "Each Responsible Entity shall implement one or more documented process(es) that collectively include each of the applicable requirement parts in CIP-010-3 Table R1 – Configuration Change Management. [Violation Risk Factor: Medium] [Time Horizon: Operations Planning].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.1",
+        "Language": "Develop a baseline configuration, individually or by group, which shall include the following items:",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.1.1",
+        "Language": "Operating system(s) (including version) or firmware where no independent operating system exists;",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.1.2",
+        "Language": "Any commercially available or open-source application software (including version) intentionally installed;",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.1.3",
+        "Language": "Any custom software installed;",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.1.4",
+        "Language": "Any logical network accessible ports; and",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.1.5",
+        "Language": "Any security patches applied.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.2",
+        "Language": "Authorize and document changes that deviate from the existing baseline configuration.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.3",
+        "Language": "For a change that deviates from the existing baseline configuration, update the baseline configuration as necessary within 30 calendar days of completing the change.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.4",
+        "Language": "For a change that deviates from the existing baseline configuration:",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.4.1",
+        "Language": "Prior to the change, determine required cyber security controls in CIP-005 and CIP-007 that could be impacted by the change;",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.4.2",
+        "Language": "Following the change, verify that required cyber security controls determined in 1.4.1 are not adversely affected; and",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.4.3",
+        "Language": "Document the results of the verification.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.5",
+        "Language": "Where technically feasible, for each change that deviates from the existing baseline configuration:",
+        "Applicability": "High BCS only"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.5.1",
+        "Language": "Prior to implementing any change in the production environment, test the changes in a test environment or test the changes in a production environment where the test is performed in a manner that minimizes adverse effects, that models the baseline configuration to ensure that required cyber security controls in CIP-005 and CIP-007 are not adversely affected; and",
+        "Applicability": "High BCS only"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.5.2",
+        "Language": "Document the results of the testing and, if a test environment was used, the differences between the test environment and the production environment, including a description of the measures used to account for any differences in operation between the test and production environments.",
+        "Applicability": "High BCS only"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.6",
+        "Language": "Prior to a change that deviates from the existing baseline configuration associated with baseline items in Parts 1.1.1, 1.1.2, and 1.1.5, and when the method to do so is available to the Responsible Entity from the software source:",
+        "Applicability": "High BCS; Medium BCS"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.6.1",
+        "Language": "Verify the identity of the software source; and",
+        "Applicability": "High BCS; Medium BCS"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R1.6.2",
+        "Language": "Verify the integrity of the software obtained from the software source.",
+        "Applicability": "High BCS; Medium BCS"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R2",
+        "Language": "Each Responsible Entity shall implement one or more documented process(es) that collectively include each of the applicable requirement parts in CIP-010-3 Table R2 – Configuration Monitoring. [Violation Risk Factor: Medium] [Time Horizon: Operations Planning].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R2.1",
+        "Language": "Monitor at least once every 35 calendar days for changes to the baseline configuration (as described in Requirement R1, Part 1.1). Document and investigate detected unauthorized changes.",
+        "Applicability": "High BCS and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R3",
+        "Language": "Each Responsible Entity shall implement one or more documented process(es) that collectively include each of the applicable requirement parts in CIP-010-3 Table R3– Vulnerability Assessments. [Violation Risk Factor: Medium] [Time Horizon: Long-term Planning and Operations Planning]",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R3.1",
+        "Language": "At least once every 15 calendar months, conduct a paper or active vulnerability assessment.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R3.2",
+        "Language": "Where technically feasible, at least once every 36 calendar months:",
+        "Applicability": "High BCS only"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R3.2.1",
+        "Language": "Perform an active vulnerability assessment in a test environment, or perform an active vulnerability assessment in a production environment where the test is performed in a manner that minimizes adverse effects, that models the baseline configuration of the BES Cyber System in a production environment; and",
+        "Applicability": "High BCS only"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R3.2.2",
+        "Language": "Document the results of the testing and, if a test environment was used, the differences between the test environment and the production environment, including a description of the measures used to account for any differences in operation between the test and production environments.",
+        "Applicability": "High BCS only"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R3.3",
+        "Language": "Prior to adding a new applicable Cyber Asset to a production environment, perform an active vulnerability assessment of the new Cyber Asset, except for CIP Exceptional Circumstances and like replacements of the same type of Cyber Asset with a baseline configuration that models an existing baseline configuration of the previous or other existing Cyber Asset.",
+        "Applicability": "High BCS and associated EACMS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R3.4",
+        "Language": "Document the results of the assessments conducted according to Parts 3.1, 3.2, and 3.3 and the action plan to remediate or mitigate vulnerabilities identified in the assessments including the planned date of completing the action plan and the execution status of any remediation or mitigation action items.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4",
+        "Language": "Each Responsible Entity, for its high impact and medium impact BES Cyber Systems and associated Protected Cyber Assets, shall implement, except under CIP Exceptional Circumstances, one or more documented plan(s) for Transient Cyber Assets and Removable Media that include the sections in Attachment 1. [Violation Risk Factor: Medium] [Time Horizon: Long-term Planning and Operations Planning]",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.1",
+        "Language": "Transient Cyber Asset(s) Managed by the Responsible Entity:",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.1.1",
+        "Language": "Transient Cyber Asset Management: Responsible Entities shall manage Transient Cyber Asset(s), individually or by group: (1) in an ongoing manner to ensure compliance with applicable requirements at all times, (2) in an on-demand manner applying the applicable requirements before connection to a BES Cyber System, or (3) a combination of both (1) and (2) above.",
+        "Applicability": "High BCS and associated PCA; Medium BCS and associated PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.1.2",
+        "Language": "Transient Cyber Asset Authorization: For each individual or group of Transient Cyber Asset(s), each Responsible Entity shall authorize: 1.2.1. Users, either individually or by group or role; 1.2.2. Locations, either individually or by group; and 1.2.3. Uses, which shall be limited to what is necessary to perform business functions.",
+        "Applicability": "High BCS and associated PCA; Medium BCS and associated PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.1.3",
+        "Language": "Software Vulnerability Mitigation: Use one or a combination of the following methods to achieve the objective of mitigating the risk of vulnerabilities posed by unpatched software on the Transient Cyber Asset (per Transient Cyber Asset capability): Security patching, including manual or managed updates; Live operating system and software executable only from read-only media; System hardening; or  Other method(s) to mitigate software vulnerabilities.",
+        "Applicability": "High BCS and associated PCA; Medium BCS and associated PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.1.4",
+        "Language": "Introduction of Malicious Code Mitigation: Use one or a combination of the following methods to achieve the objective of mitigating the introduction of malicious code (per Transient Cyber Asset capability): Antivirus software, including manual or managed updates of signatures or patterns; Application whitelisting; or Other method(s) to mitigate the introduction of malicious code.",
+        "Applicability": "High BCS and associated PCA; Medium BCS and associated PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.1.5",
+        "Language": "Unauthorized Use Mitigation: Use one or a combination of the following methods to achieve the objective of mitigating the risk of unauthorized use of Transient Cyber Asset(s): Restrict physical access;Full-disk encryption with authentication;  Multi-factor authentication; or Other method(s) to mitigate the risk of unauthorized use.",
+        "Applicability": "High BCS and associated PCA; Medium BCS and associated PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.2",
+        "Language": "Transient Cyber Asset(s) Managed by a Party Other than the Responsible Entity:",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.2.1",
+        "Language": "Software Vulnerabilities Mitigation: Use one or a combination of the following methods to achieve the objective of mitigating the risk of vulnerabilities posed by unpatched software on the Transient Cyber Asset (per Transient Cyber Asset capability): Review of installed security patch(es); Review of security patching process used by the party; Review of other vulnerability mitigation performed by the party; or Other method(s) to mitigate software vulnerabilities.",
+        "Applicability": "High BCS and associated PCA; Medium BCS and associated PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.2.2",
+        "Language": "Introduction of malicious code mitigation: Use one or a combination of the following methods to achieve the objective of mitigating malicious code (per Transient Cyber Asset capability): Review of antivirus update level; Review of antivirus update process used by the party; Review of application whitelisting used by the party; Review use of live operating system and software executable only from read- only media; Review of system hardening used by the party; or Other method(s) to mitigate malicious code.",
+        "Applicability": "High BCS and associated PCA; Medium BCS and associated PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.2.3",
+        "Language": "For any method used to mitigate software vulnerabilities or malicious code as specified in 2.1 and 2.2, Responsible Entities shall determine whether any additional mitigation actions are necessary and implement such actions prior to connecting the Transient Cyber Asset.",
+        "Applicability": "High BCS and associated PCA; Medium BCS and associated PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.3",
+        "Language": "Removable Media",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.3.1",
+        "Language": "Removable Media Authorization: For each individual or group of Removable Media, each Responsible Entity shall authorize: 3.1.1. Users, either individually or by group or role; and 3.1.2. Locations, either individually or by group.",
+        "Applicability": "High BCS and associated PCA; Medium BCS and associated PCA"
+    },
+    {
+        "Standard": "CIP-010-3",
+        "Requirement": "R4.3.2",
+        "Language": "Malicious Code Mitigation: To achieve the objective of mitigating the threat of introducing malicious code to high impact or medium impact BES Cyber Systems and their associated Protected Cyber Assets, each Responsible Entity shall: 3.2.1. Use method(s) to detect malicious code on Removable Media using a Cyber Asset other than a BES Cyber System or Protected Cyber Assets; and 3.2.2. Mitigate the threat of detected malicious code on Removable Media prior to connecting the Removable Media to a high impact or medium impact BES Cyber System or associated Protected Cyber Assets.",
+        "Applicability": "High BCS and associated PCA; Medium BCS and associated PCA"
+    },
+    {
+        "Standard": "CIP-011-2",
+        "Requirement": "R1",
+        "Language": "Each Responsible Entity shall implement one or more documented information protection program(s) that collectively includes each of the applicable requirement parts in CIP-011-2 Table R1 – Information Protection. [Violation Risk Factor: Medium] [Time Horizon: Operations Planning].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-011-2",
+        "Requirement": "R1.1",
+        "Language": "Method(s) to identify information that meets the definition of BES Cyber System Information.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-011-2",
+        "Requirement": "R1.2",
+        "Language": "Procedure(s) for protecting and securely handling BES Cyber System Information, including storage, transit, and use.",
+        "Applicability": "High BCS and associated EACMS, PACS; Medium BCS and associated EACMS, PACS"
+    },
+    {
+        "Standard": "CIP-011-2",
+        "Requirement": "R2",
+        "Language": "Each Responsible Entity shall implement one or more documented process(es) that collectively include the applicable requirement parts in CIP-011-2 Table R2 – BES Cyber Asset Reuse and Disposal. [Violation Risk Factor: Lower] [Time Horizon: Operations Planning].",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-011-2",
+        "Requirement": "R2.1",
+        "Language": "Prior to the release for reuse of applicable Cyber Assets that contain BES Cyber System Information (except for reuse within other systems identified in the “Applicable Systems” column), the Responsible Entity shall take action to prevent the unauthorized retrieval of BES Cyber System Information from the Cyber Asset data storage media.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-011-2",
+        "Requirement": "R2.2",
+        "Language": "Prior to the disposal of applicable Cyber Assets that contain BES Cyber System Information, the Responsible Entity shall take action to prevent the unauthorized retrieval of BES Cyber System Information from the Cyber Asset or destroy the data storage media.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-013-1",
+        "Requirement": "R1",
+        "Language": "Each Responsible Entity shall develop one or more documented supply chain cyber security risk management plan(s) for high and medium impact BES Cyber Systems. The plan(s) shall include: ",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-013-1",
+        "Requirement": "R1.1",
+        "Language": "One or more process(es) used in planning for the procurement of BES Cyber Systems to identify and assess cyber security risk(s) to the Bulk Electric System from vendor products or services resulting from: (i) procuring and installing vendor equipment and software; and (ii) transitions from one vendor(s) to another vendor(s).",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-013-1",
+        "Requirement": "R1.2",
+        "Language": "One or more process(es) used in procuring BES Cyber Systems that address the following, as applicable:",
+        "Applicability": "See sub-requirements"
+    },
+    {
+        "Standard": "CIP-013-1",
+        "Requirement": "R1.2.1",
+        "Language": "Notification by the vendor of vendor-identified incidents related to the products or services provided to the Responsible Entity that pose cyber security risk to the Responsible Entity;",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-013-1",
+        "Requirement": "R1.2.2",
+        "Language": "Coordination of responses to vendor-identified incidents related to the products or services provided to the Responsible Entity that pose cyber security risk to the Responsible Entity;",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-013-1",
+        "Requirement": "R1.2.3",
+        "Language": "Notification by vendors when remote or onsite access should no longer be granted to vendor representatives;",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-013-1",
+        "Requirement": "R1.2.4",
+        "Language": "Disclosure by vendors of known vulnerabilities related to the products or services provided to the Responsible Entity;",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-013-1",
+        "Requirement": "R1.2.5",
+        "Language": "Verification of software integrity and authenticity of all software and patches provided by the vendor for use in the BES Cyber System; and",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-013-1",
+        "Requirement": "R1.2.6",
+        "Language": "Coordination of controls for (i) vendor-initiated Interactive Remote Access, and (ii) system-to-system remote access with a vendor(s).",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-013-1",
+        "Requirement": "R2",
+        "Language": "Each Responsible Entity shall implement its supply chain cyber security risk management plan(s) specified in Requirement R1. Note: Implementation of the plan does not require the Responsible Entity to renegotiate or abrogate existing contracts (including amendments to master agreements and purchase orders). Additionally, the following issues are beyond the scope of Requirement R2: (1) the actual terms and conditions of a procurement contract; and (2) vendor performance and adherence to a contract.",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
+    },
+    {
+        "Standard": "CIP-013-1",
+        "Requirement": "R3",
+        "Language": "Each Responsible Entity shall review and obtain CIP Senior Manager or delegate approval of its supply chain cyber security risk management plan(s) specified in Requirement R1 at least once every 15 calendar months. ",
+        "Applicability": "High BCS and associated EACMS, PACS, PCA; Medium BCS and associated EACMS, PACS, PCA"
     }
 ]

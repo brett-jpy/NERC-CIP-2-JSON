@@ -48,7 +48,7 @@ for item in r.json():
     client.insert_one(data)
 ````
 
-Set a text index on the Database [read here](https://docs.mongodb.com/manual/text-search/), allowing to answer questions like, "Which standards have 'CIP Senior Manager' in them?" 
+Set a text index on the Database [read here](https://docs.mongodb.com/manual/text-search/), allowing you to answer questions like, "Which standards have 'CIP Senior Manager' in them?" 
 
 ```py
 for item in collection.find( { "$text": { "$search": '"CIP Senior Manager"' } } ): # The Double Quotes wrapped by single quotes are to get exact phrase searching

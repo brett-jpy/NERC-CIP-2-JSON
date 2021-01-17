@@ -57,7 +57,7 @@ for item in collection.find( { "$text": { "$search": '"CIP Senior Manager"' } } 
 
 The output then provides the standards that contain that exact phrase. *Disclaimer* They're not in order 
 
-```py
+```text
 Standard/Req:  CIP-003-8 - R4
 ---Language: The Responsible Entity shall implement a documented process to delegate authority, unless no delegations are used. Where allowed by the CIP Standards, the CIP Senior Manager may delegate authority for specific actions to a delegate or delegates. These delegations shall be documented, including the name or title of the delegate, the specific actions delegated, and the date of the delegation; approved by the CIP Senior Manager; and updated within 30 days of any change to the delegation. Delegation changes do not need to be reinstated with a change to the delegator.
 

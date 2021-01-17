@@ -2,27 +2,29 @@
 
 Current Progress:
 
-[x] CIP-002 
+[x] CIP-002-5.1
 
-[x] CIP-003 
+[x] CIP-003-8
 
-[x] CIP-004 
+[x] CIP-004-6
 
-[x] CIP-005 
+[x] CIP-005-6
 
-[x] CIP-006 
+[x] CIP-006-6
 
-[x] CIP-007 
+[x] CIP-007-6
 
-[x] CIP-008 
+[x] CIP-008-5
 
-[x] CIP-009 
+[] CIP-008-6
 
-[x] CIP-010 
+[x] CIP-009-6
 
-[x] CIP-011 
+[x] CIP-010-3
 
-[x] CIP-013 
+[x] CIP-011-2
+
+[x] CIP-013-1
 
 
 ### Example of Structure
